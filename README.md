@@ -1,4 +1,4 @@
-# Pirate-Bay-Proxy-Sites-List-Updated-Apr-2024-
+# Pirate-Bay-Proxy-Sites-List-Updated-Apr-2024
 Pirate Bay is a famous and popular file-sharing website utilizing the BitTorrent protocol. We providePirate Bay proxy sites to download torrents.
 
 Established in 2003 by a Swedish anti-copyright group, Pirate Bay is a renowned file-sharing website that operates through the BitTorrent protocol. It serves as a repository for digital content, enabling users to search, download, and share various files, such as movies, music, software, and games, using a peer-to-peer file-sharing system.
