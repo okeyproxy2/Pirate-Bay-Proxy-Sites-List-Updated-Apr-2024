@@ -39,4 +39,6 @@ Accessing The Pirate Bay through a proxy server is crucial for safeguarding your
 
 [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) boasts 150M+ Real Residential IPs across 200+ countries, provides a comprehensive proxy types, including residential and datacenter proxies, ensuring maximum flexibility for any business scenarios. It also offers a [FREE PROXY TRIAL](https://www.okeyproxy.com/proxy/?link=b63b57), enabling users to experience the dependability, speed, and high-performance of proxies.
 
+[![](https://github.com/okeyproxy2/Pirate-Bay-Proxy-Sites-List-Updated-Apr-2024-/assets/155126786/7601f5b2-cb9d-4d2c-a149-f3eefe5b2e19)](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)
+
 
